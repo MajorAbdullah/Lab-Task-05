@@ -14,7 +14,7 @@ The project includes various visualizations to compare the performance of differ
 ### 1. Bar Chart: Comparison of Metrics
 This bar chart compares the Precision, Recall, F1-Score, and Accuracy for each classification technique (Multinomial NB, Logistic Regression, and Decision Tree).
 
-![Bar Chart](path/to/bar_chart.png)
+![Bar Chart]([path/to/bar_chart.png](https://github.com/MajorAbdullah/Lab-Task-05/blob/main/image.png))
 
 ### 2. Line Plot: Detailed Metric Comparison
 This line plot provides a detailed comparison of Precision, Recall, and F1-Score across different techniques, showing how each metric changes between models.
